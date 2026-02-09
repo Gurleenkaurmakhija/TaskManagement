@@ -1,4 +1,4 @@
-package com.example.taskmanager.entity;
+package com.gevernova.TaskManagement.entity;
 
 import jakarta.persistence.*;
 
